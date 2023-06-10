@@ -34,7 +34,7 @@ A simple weather application that provides current weather information for a giv
 1. Open a terminal or command prompt and navigate to the project directory.
 
 2. Run the following command to start the application:
-
+python app.py
 
 3. The Weather App window will open.
 
